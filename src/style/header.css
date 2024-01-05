@@ -1,0 +1,38 @@
+header{
+    padding:10px 25px 0px 25px ;
+    
+}
+.header-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+hr{
+    border: 2px solid;
+}
+h1{
+    font-weight: 600;
+}
+.header-btns{
+    display: flex;
+    gap: 20px;
+    font-size: 25px;
+    padding: 0px 20px 0px 0px;
+    align-items: baseline;
+}
+button{
+    background-color: #f2f2f2;
+    border: 2px solid transparent black; 
+    height: 30px;
+    padding: 5px 10px; 
+    border-bottom: 5px solid;
+    border-right: 5px solid;
+}
+button:hover {
+    background-color: #e0e0e0;
+}
+
+button:active {
+    border-color: #ccc; 
+    background-color: #d9d9d9;
+}

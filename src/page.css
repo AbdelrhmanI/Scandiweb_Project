@@ -1,0 +1,7 @@
+.content{
+    margin: 0px 55px 0px 50px;
+    padding: 0px 80px 0px 80px;
+    display: block;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }

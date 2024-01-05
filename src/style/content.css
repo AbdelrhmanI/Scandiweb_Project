@@ -1,0 +1,25 @@
+.div-box{
+  margin-top: 10px;
+  border: 3px solid black; 
+  padding-left: 10px;
+  height: 200px;
+  width: 260px;
+  display: inline-block;
+  margin-left:15px;
+  margin-right:15px;
+  border-radius: 4px;  
+}
+
+.div-content{
+  padding-top: 20px;
+  display: grid;
+  place-items: center;
+  font-weight: 500;   
+}
+
+.delete-checkbox{
+  margin: 17px 17px 0px;
+  height: 17px;
+  width:17px;
+  border:  solid #000;
+}
