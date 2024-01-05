@@ -1,8 +1,4 @@
-# Project Title
-
-## Overview
-
-[Provide a brief overview of the project]
+# Scandiweb_Project
 
 ## Setup Instructions
 
