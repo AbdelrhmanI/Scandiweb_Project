@@ -15,10 +15,9 @@ Make sure you have the following software installed on your machine:
 1. Clone this repository to your local machine.
    git clone https://github.com/your-username/your-repo.git
    
-2.  Move the php-project folder into the htdocs directory of your XAMPP installation.
+2.  Move the *php-project* folder into the htdocs directory of your XAMPP installation.
   
 3. Open your preferred web browser and access phpMyAdmin.
 
-4. Import the items.sql file located in the root directory of the project into your newly created database using phpMyAdmin.
-
- 
+4. Import the *items.sql* file located in the root directory of the project into your newly created database using phpMyAdmin.
+5. 
